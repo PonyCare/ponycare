@@ -1,0 +1,25 @@
+{
+  "name": "ponycare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PonyCare/PonyCare.git"
+  },
+  "author": "My Little Unicorn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PonyCare/PonyCare/issues"
+  },
+  "homepage": "https://github.com/PonyCare/PonyCare#readme",
+  "dependencies": {
+    "getconfig": "3.x.x",
+    "good": "^7.0.2",
+    "good-console": "^6.3.1",
+    "hapi": "15.x.x"
+  }
+}
